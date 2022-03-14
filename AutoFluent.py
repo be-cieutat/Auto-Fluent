@@ -10,8 +10,8 @@ The stored data are encoded for more protection.
 """
 #%% Debug
 
-stored_id = "boyan-edouard.cieutat@edu.devinci.fr"
-stored_password = "Sonnet45"
+stored_id = " "
+stored_password = " "
 tutorial = 0
 
 #%% Def
